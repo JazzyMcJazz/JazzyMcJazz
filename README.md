@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi there:
 🔭 I’m currently working on a React Native app<br>🌱 I’m currently learning SvelteKit<br>⚡ Fun fact: This page is under construction!
 
 
